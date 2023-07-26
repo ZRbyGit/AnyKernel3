@@ -4,7 +4,7 @@
 ### AnyKernel setup
 # begin properties
 properties() { '
-kernel.string=xz1Kernel by charlestai
+kernel.string=KernelSU by ZRCrystal
 do.devicecheck=0
 do.modules=0
 do.systemless=1
