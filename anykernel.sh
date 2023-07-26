@@ -4,7 +4,7 @@
 ## AnyKernel setup
 # begin properties
 properties() { '
-kernel.string=Coleoptera-kernel-beta5-oss-KSUver
+kernel.string=KernelSU by ZRCrystal
 do.devicecheck=0
 do.modules=0
 do.systemless=0
