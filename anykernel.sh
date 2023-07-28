@@ -10,10 +10,11 @@ do.modules=0
 do.systemless=1
 do.cleanup=1
 do.cleanuponabort=0
-device.name1=SOV36
-device.name2=XperiaXz1
-device.name3=whatawurst
-device.name4=G8341
+device.name1=G8141
+device.name2=G8142
+device.name3=G8188
+device.name4=SO-04J
+device.name5=maple
 supported.versions=
 supported.patchlevels=
 '; } # end properties
